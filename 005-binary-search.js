@@ -30,7 +30,7 @@ function binarySearch(arr, value) {
       }
       middle = Math.round((left + right) / 2);
     }
-    console.log(left + " " + middle + " " + right);
+    //console.log(left + " " + middle + " " + right);
   }
 
   return -1;
